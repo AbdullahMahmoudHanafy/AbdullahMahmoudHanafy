@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Flutter Development**
+- 💬 Ask me about **Flutter Applications Development**
 
 - 📫 How to reach me **abdallah.abdelghaphar03@eng-st.cu.edu.eg**
 
