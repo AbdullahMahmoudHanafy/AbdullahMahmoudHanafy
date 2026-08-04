@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mahmoud</h1>
-<h3 align="center">Senior Systems & Biomedical Engineering Student | Passionate Full-Stack Developer | Competitive Programmer</h3></h3>
+<h3 align="center">Fresh Graduate in Systems & Biomedical Engineering | Passionate Full-Stack Developer | Competitive Programmer</h3></h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abdullahmahmoud2003&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmahmoud2003" />
